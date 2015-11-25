@@ -1,0 +1,6 @@
+C:\Users\Toni\Documents\Visual Studio 2013\Projects\OOP_Inheritance_and_Abstraction_Homework\Problem3_Company_Hierarchy\bin\Debug\Problem3_Company_Hierarchy.exe.config
+C:\Users\Toni\Documents\Visual Studio 2013\Projects\OOP_Inheritance_and_Abstraction_Homework\Problem3_Company_Hierarchy\bin\Debug\Problem3_Company_Hierarchy.exe
+C:\Users\Toni\Documents\Visual Studio 2013\Projects\OOP_Inheritance_and_Abstraction_Homework\Problem3_Company_Hierarchy\bin\Debug\Problem3_Company_Hierarchy.pdb
+C:\Users\Toni\Documents\Visual Studio 2013\Projects\OOP_Inheritance_and_Abstraction_Homework\Problem3_Company_Hierarchy\obj\Debug\Problem3_Company_Hierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Toni\Documents\Visual Studio 2013\Projects\OOP_Inheritance_and_Abstraction_Homework\Problem3_Company_Hierarchy\obj\Debug\Problem3_Company_Hierarchy.exe
+C:\Users\Toni\Documents\Visual Studio 2013\Projects\OOP_Inheritance_and_Abstraction_Homework\Problem3_Company_Hierarchy\obj\Debug\Problem3_Company_Hierarchy.pdb
