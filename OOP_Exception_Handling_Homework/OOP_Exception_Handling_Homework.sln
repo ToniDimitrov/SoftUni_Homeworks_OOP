@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2_Enter_Numbers", "Problem2_Enter_Numbers\Problem2_Enter_Numbers.csproj", "{2D53CB6A-EB38-477A-8782-C02E7E3680CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1_Square_Root", "Problem1_Square_Root\Problem1_Square_Root.csproj", "{5AF427CA-36B8-4214-9473-D0566848637D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D53CB6A-EB38-477A-8782-C02E7E3680CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D53CB6A-EB38-477A-8782-C02E7E3680CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D53CB6A-EB38-477A-8782-C02E7E3680CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D53CB6A-EB38-477A-8782-C02E7E3680CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF427CA-36B8-4214-9473-D0566848637D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF427CA-36B8-4214-9473-D0566848637D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF427CA-36B8-4214-9473-D0566848637D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF427CA-36B8-4214-9473-D0566848637D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

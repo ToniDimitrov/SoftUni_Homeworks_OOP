@@ -1,0 +1,6 @@
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem1_Persons\bin\Debug\Problem1_Persons.exe.config
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem1_Persons\obj\Debug\Problem1_Persons.csprojResolveAssemblyReference.cache
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem1_Persons\bin\Debug\Problem1_Persons.exe
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem1_Persons\bin\Debug\Problem1_Persons.pdb
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem1_Persons\obj\Debug\Problem1_Persons.exe
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem1_Persons\obj\Debug\Problem1_Persons.pdb

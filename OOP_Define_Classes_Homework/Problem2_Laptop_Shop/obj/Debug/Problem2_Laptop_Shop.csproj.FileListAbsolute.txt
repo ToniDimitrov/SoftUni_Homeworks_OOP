@@ -1,0 +1,6 @@
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem2_Laptop_Shop\bin\Debug\Problem2_Laptop_Shop.exe.config
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem2_Laptop_Shop\bin\Debug\Problem2_Laptop_Shop.exe
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem2_Laptop_Shop\bin\Debug\Problem2_Laptop_Shop.pdb
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem2_Laptop_Shop\obj\Debug\Problem2_Laptop_Shop.csprojResolveAssemblyReference.cache
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem2_Laptop_Shop\obj\Debug\Problem2_Laptop_Shop.exe
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem2_Laptop_Shop\obj\Debug\Problem2_Laptop_Shop.pdb

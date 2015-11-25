@@ -1,0 +1,6 @@
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem3_PC_Catalog\bin\Debug\Problem3_PC_Catalog.exe.config
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem3_PC_Catalog\bin\Debug\Problem3_PC_Catalog.exe
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem3_PC_Catalog\bin\Debug\Problem3_PC_Catalog.pdb
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem3_PC_Catalog\obj\Debug\Problem3_PC_Catalog.csprojResolveAssemblyReference.cache
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem3_PC_Catalog\obj\Debug\Problem3_PC_Catalog.exe
+c:\users\toni\documents\visual studio 2013\Projects\OOP_Define_Classes_Homework\Problem3_PC_Catalog\obj\Debug\Problem3_PC_Catalog.pdb
