@@ -44,6 +44,10 @@ namespace Problem2_Bank_Of_Kurtovo_Konare
 
         public void Deposit(decimal amountToDeposit)
         {
+            if (amountToDeposit <= 0)
+            {
+                throw new ArgumentOutOfRangeException("The deposited amount must be positive");
+            }
             this.Balance += amountToDeposit;
             Console.WriteLine("Deposit Successful!");
         }

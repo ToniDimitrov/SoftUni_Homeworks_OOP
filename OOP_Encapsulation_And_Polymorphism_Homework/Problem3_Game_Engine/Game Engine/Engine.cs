@@ -203,7 +203,7 @@ namespace TheSlum.GameEngine
 
         protected bool IsWithinRange(int attackerX, int attackerY, int targetX, int targetY, int range)
         {
-            double distance = Math.Sqrt(
+             double distance = Math.Sqrt(
                 (attackerX - targetX)*(attackerX - targetX) +
                 (attackerY - targetY)*(attackerY - targetY));
 

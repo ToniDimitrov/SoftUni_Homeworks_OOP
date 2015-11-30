@@ -11,6 +11,10 @@ namespace Problem2_Bank_Of_Kurtovo_Konare
 
         public void Withdraw(decimal amountToWithdraw)
         {
+            if (amountToWithdraw <= 0)
+            {
+                throw new ArgumentOutOfRangeException("The withdrawn amount must be positive");
+            }
             this.Balance -= amountToWithdraw;
             Console.WriteLine("Withdraw Successful!");
         }
